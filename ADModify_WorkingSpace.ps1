@@ -30,7 +30,7 @@ foreach ($column in $users) {
 ========================================
 
 Import-Module ActiveDirectory
-$users = import-csv C:\Users\a3699\Desktop\Testing.csv
+$users = import-csv [path]
 foreach ($column in $users) {
     set-aduser -Identity $column."user" -GivenName $column."FirstName" -Surname $column."LastName" -Description $column."Description" -DisplayName $column."DisplayName" -Add @{ipPhone="$column.IPPhone"}
 } 
