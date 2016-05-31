@@ -1,4 +1,6 @@
-﻿Get-AppxPackage *3dbuilder* | Remove-AppxPackage
+﻿#Remove builtin Apps in Windows 10
+
+Get-AppxPackage *3dbuilder* | Remove-AppxPackage
 Get-AppxPackage *windowsalarms* | Remove-AppxPackage
 Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
 Get-AppxPackage *windowscamera* | Remove-AppxPackage
