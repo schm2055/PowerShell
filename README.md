@@ -1,9 +1,8 @@
 # PowerShell
 Windows PowerShell Scripts
 
-This is a repository that houses useful PowerShell scripts. The scripts that are located here range from 
-scripts that were created while I was a beginnger and automating simple tasks to scripts that I continue to 
-create as I become more advanced. 
+This is a collection of useful PowerShell scripts. The complexity and usefulness ranges and your mileage may vary. 
+This is my collection of scripts that I have created or compiled over time.
 
 Note: Not all scripts were created by me. Some have been saved here as part of my tool kit. Many have been 
 modified by me to adapt to specific situations.
