@@ -21,3 +21,5 @@ Get-AppxPackage *bingsports* | Remove-AppxPackage
 Get-AppxPackage *soundrecorder* | Remove-AppxPackage
 Get-AppxPackage *bingweather* | Remove-AppxPackage
 Get-AppxPackage *xboxapp* | Remove-AppxPackage
+Get-AppxPackage *microsoft.messaging* | Remove-AppxPackage
+Get-AppxPackage *commsphone* | Remove-AppxPackage
