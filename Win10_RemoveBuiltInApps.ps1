@@ -23,3 +23,4 @@ Get-AppxPackage *bingweather* | Remove-AppxPackage
 Get-AppxPackage *xboxapp* | Remove-AppxPackage
 Get-AppxPackage *microsoft.messaging* | Remove-AppxPackage
 Get-AppxPackage *commsphone* | Remove-AppxPackage
+Get-AppxPackage *connect* | Remove-AppxPackage
