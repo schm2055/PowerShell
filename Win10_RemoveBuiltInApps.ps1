@@ -24,3 +24,12 @@ Get-AppxPackage *xboxapp* | Remove-AppxPackage
 Get-AppxPackage *microsoft.messaging* | Remove-AppxPackage
 Get-AppxPackage *commsphone* | Remove-AppxPackage
 Get-AppxPackage *connect* | Remove-AppxPackage
+get-appxpackage *duolingo* | Remove-AppxPackage
+get-appxpackage *flip* | Remove-AppxPackage
+get-appxpackage *fresh* | Remove-AppxPackage
+get-appxpackage *translator* | Remove-AppxPackage
+get-appxpackage *wunder* | Remove-AppxPackage
+get-appxpackage *eclipse* | Remove-AppxPackage
+get-appxpackage *feedback* | Remove-AppxPackage
+get-appxpackage *contact* | Remove-AppxPackage
+get-appxpackage *networkspeedtest* | Remove-AppxPackage
